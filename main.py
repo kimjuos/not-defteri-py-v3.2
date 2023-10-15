@@ -24,7 +24,6 @@ root.geometry('1279x939+200+10')
 root.title('Not Defteri')
 #root.resizable(False, False)
 root.config(bg='red4')
-root.iconbitmap('D:\codes\çıtırında/favicon.ico')
 
 my_label_frame = LabelFrame(root, text="Not Defteri", font=('arial', 20, 'bold'), bg='brown3', fg='white')
 my_label_frame.pack(pady=10, padx=10)
